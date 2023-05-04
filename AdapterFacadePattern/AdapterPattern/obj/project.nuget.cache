@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R4MHruPjuamSKUQQH92IJu9K6KxrgT5qjQbXkMmccqTIiLmm37/naltelWa08BL0eVFpx3nahe+kvnO8gWw9KQ==",
+  "dgSpecHash": "Fv9bPHCVNUTs5KwyiRqEVSXjyOgPZXwqgyuSmta4TT+P/RJDfLwXWainQEfhMIjnAyGMNGwUsKN3aCR0XMT38w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DustinNation\\source\\repos\\Head First Design Patterns\\AdapterFacadePattern\\AdapterFacadePattern\\AdapterPattern.csproj",
+  "projectFilePath": "C:\\Users\\DustinNation\\source\\repos\\AdapterFacadePatterns\\AdapterFacadePattern\\AdapterPattern\\AdapterPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
